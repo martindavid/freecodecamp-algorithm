@@ -1,0 +1,26 @@
+{
+  "name": "freecodecamp-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martindavid/freecodecamp-algorithm.git"
+  },
+  "author": "martin.david.siagian@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindavid/freecodecamp-algorithm/issues"
+  },
+  "homepage": "https://github.com/martindavid/freecodecamp-algorithm#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
